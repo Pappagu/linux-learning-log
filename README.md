@@ -14,7 +14,7 @@
 - Installed Debian and Windows VM on Proxmox
 Commands practice:
 - Trying simple commands ('date', 'cal', 'df', 'free', 'exit')
-    - encountered an error for cal command "cal: command not found" → learned to install packages ('ncal', 'apt', 'sudo')
+    - encountered an error for 'cal' command "cal: command not found" → learned about package installation ('ncal', 'apt', 'sudo')
 - Learn to navigate ('pwd', 'cd', 'ls')
 - Understand Options and Arguments
 - Exploring the system ('file', 'less')
